@@ -10,7 +10,7 @@ namespace TestService1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "RFH TestService1 page";
 
             return View();
         }
